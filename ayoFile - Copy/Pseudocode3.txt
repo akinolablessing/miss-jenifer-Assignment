@@ -1,5 +1,0 @@
- Pseudocode
-prompt the user to enter decimal number
-collect it 
-store it as binary number
-display binary number
